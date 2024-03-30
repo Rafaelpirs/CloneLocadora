@@ -1,5 +1,5 @@
 plugins {
-    apply plugin: 'java-library'
+    id 'java-library'
 
 }
 
